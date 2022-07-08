@@ -7,6 +7,13 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+
+<h1>composer install</h1>
+atau
+<h1>composer update</h1>
+
+<p>Berhubung vendor didalamnya tidak ada. terlalu besar dan terlalu banyak direktori didalamnya untuk di upload ke github</p>
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
